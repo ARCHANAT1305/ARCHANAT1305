@@ -46,7 +46,7 @@ An AI-powered interview practice platform designed to help candidates improve th
 - Gain industry experience through internships and full-time opportunities.
 
 ### 🤝 Connect With Me
-- LinkedIn: [Add your LinkedIn profile URL]
+- LinkedIn: https://www.linkedin.com/in/archana-t-4a4a1a2b2/
 - GitHub: https://github.com/ARCHANAT1305
 
 ---
